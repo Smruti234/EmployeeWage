@@ -1,7 +1,7 @@
 package Employee;
 
 
-public class EmpWageuc2 {
+public class EmpWage {
 	public static void main(String[] args) {
 		int IS_PRESENT = 1;
 		 int FULL_TIME = 8;
