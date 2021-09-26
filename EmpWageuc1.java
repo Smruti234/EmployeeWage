@@ -1,5 +1,3 @@
-
-	
 package Employee;
 
 public class EmpWage {
