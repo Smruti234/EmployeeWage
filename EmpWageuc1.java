@@ -1,6 +1,6 @@
 package Employee;
 
-public class EmpWageuc5 {
+public class EmpWage {
 	public static void main(String[] args) {
 		int IS_FULL_TIME = 1;
         int IS_PART_TIME = 2;
